@@ -32,5 +32,22 @@
     "updateTime": 1661787880,
     "author": "TigerBeanst",
     "rule_id": "b4f0205c-4280-4576-b007-5bcb08a65782"
+  },
+  {
+    "rule_info": {
+      "default": {
+        "rule_name": "Personal",
+        "rule_desc": "Additional app I always use"
+      },
+      "i18n": [{
+          "rule_lang": "zh-CN",
+          "rule_name": "个人",
+          "rule_desc": "个人使用应用"
+        }]
+    },
+    "uploadTime": 1719936849,
+    "updateTime": 1719936849,
+    "author": "nulldrf",
+    "rule_id": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6"
   }
 ]
