@@ -1,3 +1,3 @@
-Add to the custom rules
+Add to the custom rule
 
-'https://raw.githubusercontent.com/nulldrf/TigerInTheWall-files/master/quick-clean-rules'
+`https://raw.githubusercontent.com/nulldrf/TigerInTheWall-files/master/quick-clean-rules`
