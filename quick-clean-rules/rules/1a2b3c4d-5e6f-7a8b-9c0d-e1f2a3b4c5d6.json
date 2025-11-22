@@ -68,6 +68,10 @@
     "3_view/io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.apk.installer.PackageInstallerActivity",
     "2_share_multi/cn.wps.moffice_eng/cn.wps.moffice.main.scan.ui.ThirdpartyImageToTextActivity",
     "1_share/io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.logcat.LogViewerActivity",
-    "1_share/cn.wps.moffice_eng/cn.wps.moffice.entrance.pictool.PicToolEntranceActivity"
+    "1_share/cn.wps.moffice_eng/cn.wps.moffice.entrance.pictool.PicToolEntranceActivity",
+    "3_view/com.reqable.android/com.reqable.android.MainActivity",
+    "1_share/cn.wps.moffice_eng/cn.wps.moffice.main.scan.ui.ThirdpartyImageToXlsActivity",
+    "1_share/cn.wps.moffice_eng/cn.wps.moffice.main.scan.ui.ThirdpartyImageToPdfActivity",
+    "3_view/cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2"
   ]
 }
